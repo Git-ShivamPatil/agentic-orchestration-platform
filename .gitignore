@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# env
+.env
+.env.local
+
+# editors
+.vscode/
+.idea/
+
+# data
+/data/*
+!/data/.gitkeep
+
+# bench output
+/results/*.json
+!/results/.gitkeep

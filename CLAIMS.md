@@ -1,11 +1,16 @@
 # Claims ledger — Agentic AI Orchestration Platform
 
-Every number published about this project — in its README, on
-[shivamsfolio.com](https://www.shivamsfolio.com/projects), or in a CV — must have a row
-here first. A number with no row does not get published.
+Every number published about this project — in [its README](README.md), on the
+[case study page](https://www.shivamsfolio.com/projects/agentic-ai-orchestration-platform), or in a CV — must have a row here first.
+**A number with no row does not get published.**
 
-**Advertised on the portfolio site:** `87% success · 150 eval cases`
-**Substantiated so far:** _nothing yet._
+| | |
+|---|---|
+| **Advertised on the portfolio** | `87% success · 150 eval cases` |
+| **Substantiated so far** | nothing yet |
+| **Feasibility assessment** | `yes-with-caveats` |
+
+## Measurements
 
 | Metric | Value | Report | Commit | Date | Host | Caveat |
 |--------|-------|--------|--------|------|------|--------|
@@ -18,3 +23,17 @@ here first. A number with no row does not get published.
 3. **Host** names the machine: CPU model, physical cores, RAM, OS/kernel, and whether the load generator was co-located.
 4. **Caveat** is the one sentence a sceptical reader most needs. Single-host? Loopback? Synthetic load? Say so.
 5. Re-verify every row quarterly. A ledger nobody re-checks is decoration.
+
+## Why this file exists
+
+The case study for this project went live before the code did, and it names a specific
+figure. That is a promise. This file is where the promise gets kept or corrected —
+it is the difference between a portfolio that asserts numbers and one that evidences them.
+
+---
+
+<div align="center">
+
+[shivamsfolio.com](https://www.shivamsfolio.com) · [Case study](https://www.shivamsfolio.com/projects/agentic-ai-orchestration-platform) · [All 7 projects](https://www.shivamsfolio.com/projects)
+
+</div>

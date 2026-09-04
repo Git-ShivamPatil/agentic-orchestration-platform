@@ -8,7 +8,6 @@ Every number published about this project — in [its README](README.md), on the
 |---|---|
 | **Advertised on the portfolio** | `87% success · 150 eval cases` |
 | **Substantiated so far** | nothing yet |
-| **Feasibility assessment** | `yes-with-caveats` |
 
 ## Measurements
 
